@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PH-Vieira
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning vue-chartjs
 - 💞️ I’m looking to collaborate on any AI project
 - 📫 How to reach me -> send a message
 
