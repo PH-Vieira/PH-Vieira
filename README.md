@@ -1,4 +1,4 @@
-##<p align="center">Olá, meu nome é Pedro </p>
+<h1 align="center">Olá, meu nome é Pedro </h1>
 
 # Redes Sociais
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/)
