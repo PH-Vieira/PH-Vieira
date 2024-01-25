@@ -1,6 +1,5 @@
 <h1 align="center">If you're looking for someone who adores automation in every aspect, you've found them.</h1>
-<br/>
-<h2 align="center">🚀your seach becomes a new journey here</h2>
+<h2 align="center"><br/>🚀your seach becomes a new journey here</h2>
 
 <details>
   <summary><b>Interesting facts about automation</b></summary>
