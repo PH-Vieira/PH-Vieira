@@ -1,5 +1,7 @@
 ## Olá, meu nome é Pedro
 
+<p style="text-align: center;">teste</p>
+
 # Redes Sociais
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="30">](https://www.facebook.com/profile.php?id=100070832881630)
