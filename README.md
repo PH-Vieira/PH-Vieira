@@ -24,8 +24,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PH-Vieira&show_icons=true&theme=ocean_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH-Vieira&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PH_Vieira&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PH-Vieira&show_icons=true&theme=ocean_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH-Vieira&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PH_Vieira&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Redes Sociais
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/)
