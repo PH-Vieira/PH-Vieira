@@ -1,6 +1,12 @@
 <h1 align="center">If you're looking for someone who adores automation in every aspect, you've found them.</h1>
 <h2 align="center">🚀your seach becomes a new journey here</h2>
 
+<details>
+  <summary>Interesting facts about automation</summary>
+
+  <p>Studies indicate that home automation can reduce household energy usage by up to 40%, significantly contributing to a reduction in carbon footprint.</p>
+</details>
+
 # Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
