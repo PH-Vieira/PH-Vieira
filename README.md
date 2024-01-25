@@ -12,7 +12,7 @@
   <summary><b>If you want a good playlist for coding</b></summary>
   <hr/>
   <a href="https://open.spotify.com/playlist/5lkKN4RM8CNU0Jy20mbiZh?si=405686da7a434b57"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <strike>This is not my playlist, I'm creating my own at this moment</strike>
+  <strike align="right">This is not my playlist, I'm creating my own at this moment</strike>
 </details>
 
 <hr/>
