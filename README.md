@@ -5,7 +5,9 @@
 <details>
   <summary><b>Interesting facts about automation</b></summary>
   <hr>
-  <h5>🌱Studies indicate that home automation can reduce household energy usage by up to 40%, significantly contributing to a reduction in carbon footprint.</h5>
+  <ul>
+    <li>🌱Studies indicate that home automation can reduce household energy usage by up to 40%, significantly contributing to a reduction in carbon footprint</li>
+  </ul>
 </details>
 
 <details>
