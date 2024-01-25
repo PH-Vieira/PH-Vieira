@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>If you're looking for someone who adores automation in every aspect, you've found them</h1>
+  <h1>If you're looking for someone who adores automation in every aspect, you've found it 😎</h1>
+  <h2>🚀your seach becomes a new journey here</h2>
 </div>
-
-If you're looking for someone who adores automation in every aspect, you've found them
-🚀your seach becomes a new journey here
 
 <details>
   <summary><b>Interesting facts about automation</b></summary>
