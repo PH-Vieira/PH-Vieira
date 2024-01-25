@@ -32,11 +32,9 @@
 ### Future project ideas
 
 <div>
-  <ul>
-    <li>Create a custom dashboard for maintaning my projects</li>
-    <li>An app created with electron for searching the web about specific topics and analyse data to make some decisions</li>
-    <li>OCR App ( college project )</li>
-  </ul>
+    <p>📘Create a custom dashboard for maintaning my projects</p>
+    <p>🔎An app created with electron for searching the web about specific topics and analyse data to make some decisions</p>
+    <p>📄OCR App ( college project )</p>
 </div>
 
 <hr/>
