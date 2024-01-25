@@ -28,9 +28,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PH-Vieira&show_icons=true&theme=ocean_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH-Vieira&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PH_Vieira&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <a href="https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">   </a>
+  <a href="https://www.facebook.com/profile.php?id=100070832881630">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="30">
+  </a>
+  <a href="https://www.instagram.com/dompedro_terceiro/">
+    <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30">
+  </a>
 </div>
-
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="30">](https://www.facebook.com/profile.php?id=100070832881630)
-[<img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30">](https://www.instagram.com/dompedro_terceiro/)
