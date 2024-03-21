@@ -1,3 +1,5 @@
+# Bem-vindo(a) ao meu perfil do GitHub!
+
 ```c
 #include <stdio.h>
 
@@ -19,7 +21,7 @@ int main() {
     printf("[Facebook](https://www.facebook.com/profile.php?id=100070832881630)");
   }
 
-  abrirLinkedIn();
+  // <a href="https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/">abrirLinkedIn();</a>
   abrirInstagram();
   abrirFacebook();
 
