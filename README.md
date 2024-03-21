@@ -6,6 +6,7 @@
 ======
   * [Minhas informações](#Minhas_informações)
   * [Projetos](#Projetos)
+  * [Meus wallpapers favoritos](#Meus_wallpapers_favoritos)
 
 ```c
 #include <stdio.h>
@@ -79,3 +80,7 @@ Meus_wallpapers_favoritos
 =========================
 
 ![woman and oni wallpaper](https://github.com/PH-Vieira/wallpapers/blob/main/wallhaven-3lgk6y_1920x1080.png)
+![dragon under water wallpaper](https://github.com/PH-Vieira/wallpapers/blob/main/wallhaven-gpxxq7_1920x1080.png)
+![purple black hole wallpaper](https://github.com/PH-Vieira/wallpapers/blob/main/wallhaven-l8v7kq_1920x1080.png)
+Vou adicionar mais algumas aqui logo.
+ * [Índice](#Índice)
