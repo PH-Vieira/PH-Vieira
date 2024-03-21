@@ -11,6 +11,7 @@
   * [Minhas informações](#Minhas_informações)
   * [Projetos](#Projetos)
   * [Meus wallpapers favoritos](#Meus_wallpapers_favoritos)
+  * [Músicas favoritas](#Músicas_favoritas)
 
 ```c
 #include <stdio.h>
