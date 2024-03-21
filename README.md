@@ -5,7 +5,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 
 Índice
 ======
-  * [Bem Vindo](#Bem-vindo(a))
+  * [Bem Vindo](#Bem-vindo(a) ao meu perfil do GitHub!)
   * [Minhas informações](#Minhas_informações)
   * [Projetos](#Projetos)
 
