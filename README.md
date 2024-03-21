@@ -1,5 +1,10 @@
 # Bem-vindo(a) ao meu perfil do GitHub!
 
+Índice
+======
+  * [Minhas informações](#Minhas_informações)
+  * [Projetos](#Projetos)
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -33,7 +38,8 @@ Projeto *criarProjeto(int id, char *nome, char *descricao, char **tecnologias, c
 }
 
 ```
-# Minhas informações
+Minhas_informações
+==================
 
 ```c
 char nome[] = "Pedro Henrique Vieira";
@@ -42,7 +48,8 @@ char *linguagens[] = {"C", "C#", "C++", "Python", "JavaScript", "PHP", "Java"};
 char *interesses[] = {"IA", "Automacao", "Linux", "Matematica", "Estatistica"};
 ```
 
-# Projetos
+Projetos
+========
 
 ```c
 Projeto *ocr_grade_report = criarProjeto(
