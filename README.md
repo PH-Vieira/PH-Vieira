@@ -21,7 +21,9 @@ int main() {
     printf("[Facebook](https://www.facebook.com/profile.php?id=100070832881630)");
   }
 
-  // <a href="https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/">abrirLinkedIn();</a>
+  ```
+  <a href="https://www.linkedin.com/in/pedro-henrique-vieira-2426a31b7/">abrirLinkedIn();</a>
+  ```c
   abrirInstagram();
   abrirFacebook();
 
