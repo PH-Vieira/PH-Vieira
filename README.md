@@ -37,6 +37,11 @@ char *interesses[] = {"IA", "Automacao", "Linux", "Matematica", "Estatistica"};
 # Projetos
 
 ```c
-Projeto *ocr_grade_report = criarProjeto(1, "OCR grade report", "Algorithm for idetifying grades in a grade report and automating related processes", "PyTesseract, Python", "");
+Projeto *ocr_grade_report = criarProjeto(1,
+                                          "OCR grade report",
+                                          "Algorithm for idetifying grades in a grade report and automating related processes",
+                                          "PyTesseract, Python",
+                                          ""
+);
 
 ```
