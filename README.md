@@ -93,6 +93,6 @@ Vou adicionar mais algumas aqui logo.
 Músicas_favoritas
 =================
 
-![<img src="[https://en.wikipedia.org/wiki/File:Joji_-_Glimpse_of_Us.png](https://en.wikipedia.org/wiki/File:Joji_-_Glimpse_of_Us.png#/media/File:Joji_-_Glimpse_of_Us.png)">](https://open.spotify.com/intl-pt/track/6xGruZOHLs39ZbVccQTuPZ?si=8622868624ed4ad1)
+![<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Joji_-_Glimpse_of_Us.png/220px-Joji_-_Glimpse_of_Us.png">](https://open.spotify.com/intl-pt/track/6xGruZOHLs39ZbVccQTuPZ?si=8622868624ed4ad1)
 
  * [Índice](#Índice)
