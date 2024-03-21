@@ -88,3 +88,10 @@ Meus_wallpapers_favoritos
 ![purple black hole wallpaper](https://github.com/PH-Vieira/wallpapers/blob/main/wallhaven-l8v7kq_1920x1080.png)
 Vou adicionar mais algumas aqui logo.
  * [Índice](#Índice)
+
+Músicas_favoritas
+=================
+
+![<img src="https://en.wikipedia.org/wiki/File:Joji_-_Glimpse_of_Us.png">](https://open.spotify.com/intl-pt/track/6xGruZOHLs39ZbVccQTuPZ?si=8622868624ed4ad1)
+
+ * [Índice](#Índice)
