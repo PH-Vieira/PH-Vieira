@@ -1,11 +1,11 @@
-Bem-vindo(a) ao meu perfil do GitHub!
-=====================================
+Bem-vindo(a)
+============
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PH-Vieira&show_icons=true&theme=ocean_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH-Vieira&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PH_Vieira&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Índice
 ======
-  * [Bem Vindo](#Bem-vindo(a) ao meu perfil do GitHub!)
+  * [Bem Vindo](#Bem-vindo(a))
   * [Minhas informações](#Minhas_informações)
   * [Projetos](#Projetos)
 
@@ -42,6 +42,8 @@ Projeto *criarProjeto(int id, char *nome, char *descricao, char **tecnologias, c
 }
 
 ```
+ * [Índice](#Índice)
+
 Minhas_informações
 ==================
 
@@ -51,6 +53,7 @@ char ocupacao[] = "Desenvolvedor full-stack";
 char *linguagens[] = {"C", "C#", "C++", "Python", "JavaScript", "PHP", "Java"};
 char *interesses[] = {"IA", "Automacao", "Linux", "Matematica", "Estatistica"};
 ```
+ * [Índice](#Índice)
 
 Projetos
 ========
